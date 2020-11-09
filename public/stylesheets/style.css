@@ -1,0 +1,17 @@
+.index-img{
+    width: 100% !important;
+}
+
+.index-cont{
+    margin-top: -50%;
+    color: #ffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 20% !important;
+    margin-right: 10% !important;
+}
+
+.movie-details{
+    padding-top: 5em;
+}
